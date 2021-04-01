@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VotingSign</string>
+    <string name="logo_name">Voting App</string>
+    <string name="slogan_name">Every vote counts in</string>
+
+    //strings fir onboarding screens
+
+    <string name="first_slide_title">Much secure and easy</string>
+    <string name="second_slide_title">Every vote counts in</string>
+    <string name="third_slide_title">It is the time.be ready</string>
+
+    <string name="first_slide_desc">With the use of modern technology, you can cast your vote just by your fingerprint.We ensure the security and the user friendliness!</string>
+    <string name="second_slide_desc">Each vote matters and the accuracy of the results is 100% ensured.We value the sovereignty of the people.Keep the trust on us!</string>
+    <string name="third_slide_desc">Voting plus Results perfectly and precisely,Our vote.Our choice..Be Ready.Lets go!</string>
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Get Started</string>
+</resources>
