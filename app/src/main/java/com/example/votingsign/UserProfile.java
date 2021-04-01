@@ -244,7 +244,7 @@ String userdocid;
 
         AlertDialog.Builder builder = new AlertDialog.Builder(UserProfile.this);
         builder.setTitle("Are You Sure You Want to Delete This User?");
-        builder.setMessage("Action Cannot Undo.");
+        builder.setMessage("Action Cannot be Undo.");
 
         builder.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
             @Override
